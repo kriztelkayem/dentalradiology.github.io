@@ -1,2 +1,23 @@
-# dentalradiology.github.io
-Dental radiology is a specialized area of dentistry that uses imaging techniques—such as X-rays—to examine the teeth, jaws, and surrounding oral structures that cannot be seen during a regular visual examination.
+# Dental Radiology Website
+
+A formal, multi-page website for dental radiology.
+
+## Pages
+- Title Page
+- Information Page
+- Image Page
+- Authors Page
+
+## Navigation
+Each page is accessible via a navigation bar.
+
+## Technologies
+- HTML5
+- CSS3
+- JavaScript (vanilla)
+
+## How to Use
+Open index.html in your browser.
+
+## Note
+All images and some content are placeholders. Replace with actual content as needed.
