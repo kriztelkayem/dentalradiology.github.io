@@ -138,7 +138,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                     <div class="author-card">
                         <span class="icon"><i class="fa-solid fa-user-graduate"></i></span>
-                        <div class="author-name">Jhon Dwayne Manalo</div>
+                        <div class="author-name">John Dwayne Manalo</div>
                         <div class="author-role">Radiologic Technologist / BSRT2A</div>
                         <div class="author-desc">Assisted in content and research</div>
                     </div>
