@@ -120,7 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <div class="title center mb-2">Dental Radiology Infographic</div>
                 <div class="center mt-2">
                     <img id="infographic-img" src="" alt="Infographic" style="max-width:100%;border-radius:16px;box-shadow:0 4px 24px rgba(30,90,180,0.13);margin-bottom:1.5rem;"/>
-                    <div style="color:#888;font-size:0.98rem;">(Upload or paste your infographic image URL in the code.)</div>
+                    <div style="color:#888;font-size:0.98rem;">myinfograhic.jpg</div>
                 </div>
                 `;
                 // You can set the src of #infographic-img to your image URL
