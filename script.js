@@ -119,8 +119,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 content.innerHTML = `
                 <div class="title center mb-2">Dental Radiology Infographic</div>
                 <div class="center mt-2">
-                    <img id="infographic-img" src="" alt="Infographic" style="max-width:100%;border-radius:16px;box-shadow:0 4px 24px rgba(30,90,180,0.13);margin-bottom:1.5rem;"/>
-                    <div style="color:#888;font-size:0.98rem;">myinfograhic.jpg</div>
+                    <img id="infographic-img" src="myinfographic.jpg" alt="Infographic" style="max-width:100%;border-radius:16px;box-shadow:0 4px 24px rgba(30,90,180,0.13);margin-bottom:1.5rem;"/>
+                    <div style="color:#888;font-size:0.98rem;">INFOGRAPHIC</div>
                 </div>
                 `;
                 // You can set the src of #infographic-img to your image URL
